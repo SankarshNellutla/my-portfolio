@@ -1,0 +1,25 @@
+# ─── Quarto build artifacts ───────────────────────────────
+# Quarto’s rendered site output
+_site/
+
+# Quarto’s cache (if you ever enable caching)
+_cache/
+.quarto/
+
+# ─── Editor & OS files ────────────────────────────────────
+# VS Code workspace settings
+.vscode/
+
+# macOS Finder metadata
+.DS_Store
+
+# Windows thumbnail cache
+Thumbs.db
+
+# ─── (Optional) Notebook & Python artifacts ───────────────
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python bytecode
+__pycache__/
+*.py[cod]

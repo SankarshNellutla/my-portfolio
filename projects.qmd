@@ -1,0 +1,70 @@
+---
+title: "My Projects"
+format:
+  html:
+    css: styles.css
+    toc: false
+    number-sections: false
+header-includes: |
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+---
+
+::: card-grid
+
+::: card
+![](images/Mmed.png){fig-alt="Emotion Detection" width="100%"}
+
+#### Multi‑Modal Emotion Detection  
+*Python · OpenCV · Librosa · TensorFlow · Keras · SQL*
+
+Detects user emotion by combining facial‑image CNNs with audio LSTMs.  
+- Preprocess: face alignment, MFCC extraction  
+- Ensemble: weighted average of CNN & LSTM outputs  
+- Tracking: logs all experiments in PostgreSQL  
+
+[View on GitHub →](https://github.com/yourusername/emotion-detection){.project-link}
+:::
+
+::: card
+![](images/Ecom_sales.png){fig-alt="E‑Commerce Pipeline" width="100%"}
+
+#### E‑Commerce Sales Pipeline  
+*Python · AWS S3 · Lambda · PostgreSQL · Tableau*
+
+Automates daily sales ingestion and reporting.  
+- Triggers: S3 → Lambda for file pickup  
+- Cleans & validates: dedupe + schema checks  
+- Dashboards: interactive Tableau views  
+
+[View on GitHub →](https://github.com/yourusername/ecommerce-pipeline){.project-link}
+:::
+
+::: card
+![](images/YtChnlAnlyts.png){fig-alt="YouTube Analytics" width="100%"}
+
+#### YouTube Channel Analytics  
+*Python · YouTube Data API · MongoDB · PostgreSQL · Tableau*
+
+Pulls channel stats, models them, and visualizes growth.  
+- ETL: YouTube API → MongoDB → Postgres star schema  
+- BI: dashboards for subscribers, watch time, engagement  
+- Alerts: thresholds for subscriber loss/gain  
+
+[View on GitHub →](https://github.com/yourusername/youtube-analytics){.project-link}
+:::
+
+::: card
+![](images/HybMovie.png){fig-alt="Movie Recommender" width="100%"}
+
+#### Hybrid Movie Recommender  
+*Python · pandas · scikit‑learn · Streamlit · SQLite*
+
+Blends content‑based & collaborative filtering on MovieLens.  
+- Similarity: TF‑IDF on genres + cosine for users  
+- Performance: cached matrices + indexed SQLite  
+- UI: Streamlit app with live search & filters  
+
+[View on GitHub →](https://github.com/yourusername/movie-recommender){.project-link}
+:::
+
+:::

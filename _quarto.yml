@@ -1,0 +1,100 @@
+project:
+  type: website
+
+website:
+  title: "SANKARSH NELLUTLA"
+  favicon: images/logo.png
+  navbar:
+    logo: images/logo.png
+    left:
+      - text: ABOUT 
+        href: about.qmd
+      - text: PROJECTS
+        href: projects.qmd
+      - text: BLOG
+        href: blog.qmd
+      - text: CONTACT
+        href: contact.qmd
+    right:
+      - icon: github
+        href: https://github.com/SankarshNellutla
+        target: _blank
+      - icon: linkedin
+        href: https://www.linkedin.com/in/sankarsh-nellutla/
+        target: _blank
+
+  page-footer:
+    border: true
+    background: none
+    left: |
+      <p><strong>
+        <span class="copyright-text">
+          &copy; 2025 Sankarsh Nellutla. All rights reserved.
+        </span>
+      </strong></p>
+    right: |
+      <div class="footer-icons" aria-label="Footer social icons">
+        <a href="mailto:sankarshnellutla12@gmail.com" aria-label="Email">
+          <i class="fas fa-envelope"></i>
+        </a>
+        <a href="contact.qmd" aria-label="Contact">
+          <i class="fas fa-id-card"></i>
+        </a>
+      </div>
+
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: darkly
+    appearance: auto
+    toc: true
+    css: styles.css
+    raw-html: true
+    include-in-header:
+      - text: |
+          <script>
+            (function() {
+              const storedTheme = localStorage.getItem('quarto-color-scheme');
+              if (storedTheme) {
+                document.documentElement.setAttribute('data-theme', storedTheme);
+              }
+              document.documentElement.classList.add('preload');
+              window.addEventListener('load', () => {
+                document.documentElement.classList.remove('preload');
+              });
+            })();
+          </script>
+      - text: |
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+    include-after-body:
+      - text: |
+          <script>
+            window.addEventListener('load', () => {
+              document.querySelectorAll('.quarto-color-scheme-toggle').forEach(el => el.remove());
+              const navRight = document.querySelector('.navbar .navbar-nav:last-child');
+              if (!navRight) return;
+              const modeToggle = document.createElement('a');
+              modeToggle.href = '#';
+              modeToggle.className = 'nav-link mode-toggle';
+              modeToggle.innerHTML = '<i class="fas fa-moon rotate-icon"></i>';
+              navRight.appendChild(modeToggle);
+              const updateUI = () => {
+                const theme = document.documentElement.getAttribute('data-theme') || 'light';
+                const icon = modeToggle.querySelector('i');
+                icon.className = `fas ${theme==='dark'?'fa-sun':'fa-moon'} rotate-icon`;
+                document.querySelectorAll('.copyright-text').forEach(el => {
+                  el.style.color = theme==='dark'?'#a0a0a0':'#6c757d';
+                });
+              };
+              modeToggle.addEventListener('click', e => {
+                e.preventDefault();
+                const current = document.documentElement.getAttribute('data-theme') || 'light';
+                const next = current==='dark'?'light':'dark';
+                document.documentElement.setAttribute('data-theme', next);
+                localStorage.setItem('quarto-color-scheme', next);
+                updateUI();
+              });
+              updateUI();
+            });
+          </script>

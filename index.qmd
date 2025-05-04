@@ -1,0 +1,25 @@
+---
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: darkly
+    appearance: auto
+    toc: false
+    css: styles.css
+page-layout: article
+---
+
+:::{.hero-section}
+
+![](images/profile.jpg){.hero-photo}
+
+## HEY, I'M SANKARSH NELLUTLA
+
+_I turn messy, complex data into clear, actionable insights. Whether it's building full-stack analytics pipelines, automating data workflows, or uncovering patterns in large datasets—I'm all about using data to solve real problems._
+
+_I’m especially into data science and product analytics because I love seeing how the right insights can shape great products and smarter decisions. I care about building things that are useful, impactful, and actually make people’s lives easier._
+
+_Take a look around—check out my projects, read a blog post or two, and feel free to reach out if you want to connect or work together!_
+
+:::

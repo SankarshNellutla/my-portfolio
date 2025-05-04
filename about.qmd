@@ -1,0 +1,74 @@
+---
+title: "About Me"
+format:
+  html:
+    css: styles.css
+    toc: true
+    number-sections: false
+---
+
+# 👋 Hi, I’m Sankarsh Nellutla
+
+I transform complex datasets into strategic insights that drive product and business decisions. With over two years of experience in data engineering, analytics, and data science, I build scalable ETL architectures, develop machine learning models, and present findings through clear, actionable dashboards.
+
+---
+
+## 📈 Data Journey { .incremental }
+
+**Discovery (2021–2022)**  
+I began by automating data preprocessing and feature engineering for sentiment analysis and health prediction projects, gaining a foundation in data cleaning and model evaluation.
+
+**Development (2022–2023)**  
+At Shiash Info Solutions, I designed and launched ETL frameworks that reduced data preparation time by 50% and created interactive dashboards to communicate key insights to stakeholders.
+
+**Scaling (2024)**  
+With NG Talent Tech, I architected AWS-based pipelines processing over 2 million records daily, implemented CI/CD workflows, and maintained 99.9% data pipeline uptime.
+
+**Innovation (Present)**  
+I’m exploring causal inference techniques, MLOps best practices, and advanced BI architectures to enhance data reliability and foster informed decision-making.
+
+---
+
+## 💼 Professional Experience { .incremental }
+
+**Data Engineer Intern**, NG Talent Tech | Frisco, TX  
+*Feb 2024 – Dec 2024*  
+- Developed and maintained end-to-end data pipelines using Python, SQL, Airflow, and AWS services.  
+- Automated monitoring and alerting systems, reducing manual intervention by 40%.  
+- Integrated CI/CD with GitHub Actions to streamline deployment of data workflows.
+
+**Data Science Intern**, Shiash Info Solutions | Chennai, India  
+*Aug 2021 – Dec 2022*  
+- Led data cleaning and feature engineering for classification and regression models, improving accuracy by 12%.  
+- Built and validated machine learning models (Random Forest, Logistic Regression, KNN) with cross-validation.  
+- Designed Tableau dashboards to visualize model outcomes and support executive decision-making.
+
+---
+
+## ⚙️ Core Expertise { .incremental }
+
+- **Scalable Data Pipelines:** Python, SQL, Airflow, dbt  
+- **Data Analysis & Visualization:** pandas, Tableau, Power BI, Plotly  
+- **Machine Learning:** scikit-learn, AWS SageMaker, AWS Lambda  
+- **Product Analytics:** Cohort Analysis, Funnel Analysis, A/B Testing  
+- **Cloud & DevOps:** AWS (S3, Redshift, Lambda), Docker, Git
+
+---
+
+## 🎓 Education { .incremental }
+
+**M.S. in Data Science**  
+University at Buffalo, NY (2022–2024)
+
+**B.Tech in Computer Science Engineering**  
+Vellore Institute of Technology, Andhra Pradesh, India (2019–2023)
+
+---
+
+## ✨ Personal Interests { .incremental }
+
+Outside of work, I enjoy writing technical articles on my [blog](blog.html), experimenting with productivity workflows, and exploring the latest open-source data tools.
+
+---
+
+Interested in collaborating or discussing data-driven solutions? **Let’s get in touch!**
