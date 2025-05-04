@@ -1,6 +1,8 @@
 [build]
-  command = "quarto render"    # ← add this line
+  # ← this tells Netlify exactly what to run
+  command = "quarto render"
   publish = "_site"
 
 [[plugins]]
+  # ← this tells Netlify to install the Quarto CLI before your build
   package = "@quarto/netlify-plugin-quarto"
