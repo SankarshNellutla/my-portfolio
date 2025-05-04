@@ -1,10 +1,5 @@
 [build]
-  command   = "quarto render"
-  publish   = "_site"
+  publish = "_site"
 
 [[plugins]]
-  package = "@quarto/netlify-plugin-quarto"
-
-  # (optional) pin a Quarto version:
-  # [plugins.inputs]
-  #   version = "1.6.43"
+package = "@quarto/netlify-plugin-quarto"
