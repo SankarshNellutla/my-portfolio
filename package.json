@@ -1,6 +1,7 @@
 {
+    "name": "my-portfolio",
+    "version": "1.0.0",
     "dependencies": {
       "@quarto/netlify-plugin-quarto": "^0.0.5"
     }
   }
-  
