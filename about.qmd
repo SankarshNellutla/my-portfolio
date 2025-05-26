@@ -58,7 +58,7 @@ I’m exploring causal inference techniques, MLOps best practices, and advanced 
 ## Education { .incremental }
 
 **M.S. in Data Science**  
-University at Buffalo, NY (2022–2024)
+University at Buffalo, NY (2023–2024)
 
 **B.Tech in Computer Science Engineering**  
 Vellore Institute of Technology, Andhra Pradesh, India (2019–2023)
