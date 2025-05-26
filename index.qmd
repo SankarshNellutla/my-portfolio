@@ -22,4 +22,8 @@ _I’m especially into data science and product analytics because I love seeing 
 
 _Take a look around—check out my projects, read a blog post or two, and feel free to reach out if you want to connect or work together!_
 
+<a href="files/resume.pdf" class="resume-btn" target="_blank" rel="noopener">
+  <i class="fas fa-download"></i> Download Resume
+</a>
+
 :::
