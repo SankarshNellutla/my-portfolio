@@ -7,13 +7,13 @@ format:
     number-sections: false
 ---
 
-# 👋 Hi, I’m Sankarsh Nellutla
+# Hi, I’m Sankarsh Nellutla
 
 I transform complex datasets into strategic insights that drive product and business decisions. With over two years of experience in data engineering, analytics, and data science, I build scalable ETL architectures, develop machine learning models, and present findings through clear, actionable dashboards.
 
 ---
 
-## 📈 Data Journey { .incremental }
+## Data Journey { .incremental }
 
 **Discovery (2021–2022)**  
 I began by automating data preprocessing and feature engineering for sentiment analysis and health prediction projects, gaining a foundation in data cleaning and model evaluation.
@@ -29,7 +29,7 @@ I’m exploring causal inference techniques, MLOps best practices, and advanced 
 
 ---
 
-## 💼 Professional Experience { .incremental }
+## Professional Experience { .incremental }
 
 **Data Engineer Intern**, NG Talent Tech | Frisco, TX  
 *Feb 2024 – Dec 2024*  
@@ -45,7 +45,7 @@ I’m exploring causal inference techniques, MLOps best practices, and advanced 
 
 ---
 
-## ⚙️ Core Expertise { .incremental }
+## Core Expertise { .incremental }
 
 - **Scalable Data Pipelines:** Python, SQL, Airflow, dbt  
 - **Data Analysis & Visualization:** pandas, Tableau, Power BI, Plotly  
@@ -55,7 +55,7 @@ I’m exploring causal inference techniques, MLOps best practices, and advanced 
 
 ---
 
-## 🎓 Education { .incremental }
+## Education { .incremental }
 
 **M.S. in Data Science**  
 University at Buffalo, NY (2022–2024)
@@ -65,7 +65,7 @@ Vellore Institute of Technology, Andhra Pradesh, India (2019–2023)
 
 ---
 
-## ✨ Personal Interests { .incremental }
+## Personal Interests { .incremental }
 
 Outside of work, I enjoy writing technical articles on my [blog](blog.html), experimenting with productivity workflows, and exploring the latest open-source data tools.
 
