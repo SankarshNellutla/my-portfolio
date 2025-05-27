@@ -1,6 +1,6 @@
 # Sankarsh Nellutla Portfolio
 
-[Live Site](https://sankarshnellutla.com/) | [LinkedIn](https://linkedin.com/in/SankarshNellutla) | [Email](mailto:your.email@example.com)
+[Live Site](https://sankarshnellutla.com/) | [LinkedIn](https://www.linkedin.com/in/sankarsh-nellutla/) | [Email](mailto:sankarshnellutla12@gmail.com)
 
 ## Overview
 
@@ -90,5 +90,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 If you have questions or feedback, please reach out:
 
-* Email: [your.email@example.com](mailto:your.email@example.com)
-* LinkedIn: [https://linkedin.com/in/SankarshNellutla](https://linkedin.com/in/SankarshNellutla)
+* Email: [your.email@example.com](mailto:sankarshnellutla12@gmail.com)
+* LinkedIn: [https://linkedin.com/in/SankarshNellutla](https://www.linkedin.com/in/sankarsh-nellutla/)
