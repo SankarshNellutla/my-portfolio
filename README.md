@@ -90,5 +90,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 If you have questions or feedback, please reach out:
 
-* Email: [your.email@example.com](mailto:sankarshnellutla12@gmail.com)
+* Email: [sankarshnellutla12@gmail.com](mailto:sankarshnellutla12@gmail.com)
 * LinkedIn: [https://linkedin.com/in/SankarshNellutla](https://www.linkedin.com/in/sankarsh-nellutla/)
