@@ -12,20 +12,6 @@ header-includes: |
 ::: card-grid
 
 ::: card
-![](images/Mmed.png){fig-alt="Emotion Detection" width="100%"}
-
-#### Multi‑Modal Emotion Detection  
-*Python · OpenCV · Librosa · TensorFlow · Keras · SQL*
-
-Detects user emotion by combining facial‑image CNNs with audio LSTMs.  
-- Preprocess: face alignment, MFCC extraction  
-- Ensemble: weighted average of CNN & LSTM outputs  
-- Tracking: logs all experiments in PostgreSQL  
-
-[View on GitHub →](https://github.com/yourusername/emotion-detection){.project-link}
-:::
-
-::: card
 ![](images/Ecom_sales.png){fig-alt="E‑Commerce Pipeline" width="100%"}
 
 #### E‑Commerce Sales Pipeline  
@@ -36,7 +22,7 @@ Automates daily sales ingestion and reporting.
 - Cleans & validates: dedupe + schema checks  
 - Dashboards: interactive Tableau views  
 
-[View on GitHub →](https://github.com/yourusername/ecommerce-pipeline){.project-link}
+[View on GitHub →](https://github.com/SankarshNellutla/ecommerce-pipeline){.project-link target="_blank" rel="noopener"}
 :::
 
 ::: card
@@ -50,7 +36,7 @@ Pulls channel stats, models them, and visualizes growth.
 - BI: dashboards for subscribers, watch time, engagement  
 - Alerts: thresholds for subscriber loss/gain  
 
-[View on GitHub →](https://github.com/yourusername/youtube-analytics){.project-link}
+[View on GitHub →](https://github.com/SankarshNellutla/youtube-analytics){.project-link target="_blank" rel="noopener"}
 :::
 
 ::: card
@@ -64,7 +50,21 @@ Blends content‑based & collaborative filtering on MovieLens.
 - Performance: cached matrices + indexed SQLite  
 - UI: Streamlit app with live search & filters  
 
-[View on GitHub →](https://github.com/yourusername/movie-recommender){.project-link}
+[View on GitHub →](https://github.com/SankarshNellutla/movie-recommender){.project-link target="_blank" rel="noopener"}
+:::
+
+::: card
+![](images/Mmed.png){fig-alt="Emotion Detection" width="100%"}
+
+#### Multi‑Modal Emotion Detection  
+*Python · OpenCV · Librosa · TensorFlow · Keras · SQL*
+
+Detects user emotion by combining facial‑image CNNs with audio LSTMs.  
+- Preprocess: face alignment, MFCC extraction  
+- Ensemble: weighted average of CNN & LSTM outputs  
+- Tracking: logs all experiments in PostgreSQL  
+
+[View on GitHub →](https://github.com/SankarshNellutla/emotion-detection){.project-link target="_blank" rel="noopener"}
 :::
 
 :::
