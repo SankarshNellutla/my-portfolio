@@ -65,10 +65,4 @@ Vellore Institute of Technology, Andhra Pradesh, India (2019–2023)
 
 ---
 
-## Personal Interests { .incremental }
-
-Outside of work, I enjoy writing technical articles on my [blog](blog.html), experimenting with productivity workflows, and exploring the latest open-source data tools.
-
----
-
 Interested in collaborating or discussing data-driven solutions? **Let’s get in touch!**

@@ -11,14 +11,12 @@ website:
         href: about.qmd
       - text: PROJECTS
         href: projects.qmd
-      - text: BLOG
-        href: blog.qmd
       - text: CONTACT
         href: contact.qmd
     right:
-      - icon: github
-        href: https://github.com/SankarshNellutla
-        target: _blank
+      # - icon: github
+      #   href: https://github.com/SankarshNellutla
+      #   target: _blank
       - icon: linkedin
         href: https://www.linkedin.com/in/sankarsh-nellutla/
         target: _blank
