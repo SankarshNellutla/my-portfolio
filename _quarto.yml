@@ -5,7 +5,6 @@ website:
   title: "Sankarsh | Portfolio"
   favicon: images/logo.png
   navbar:
-    logo: images/logo.png
     left:
       - text: ABOUT 
         href: about.qmd
