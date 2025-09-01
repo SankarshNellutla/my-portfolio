@@ -12,7 +12,7 @@ page-layout: article
 
 :::{.hero-section}
 
-![](images/profile.jpg){.hero-photo}
+![](images/profile_1.png){.hero-photo}
 
 # HEY, I'M SANKARSH NELLUTLA
 
