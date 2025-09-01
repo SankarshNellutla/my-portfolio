@@ -9,56 +9,75 @@ format:
 
 # Hi, I’m Sankarsh Nellutla
 
-I transform complex datasets into strategic insights that drive product and business decisions. With over two years of experience in data engineering, analytics, and data science, I build scalable ETL architectures, develop machine learning models, and present findings through clear, actionable dashboards.
+Data Engineer and Software Developer with a strong foundation in building scalable ETL pipelines, backend systems, and machine learning workflows. Based in Orlando, FL, I specialize in transforming raw data into reliable, actionable insights through clean engineering, automation, and data-driven design. My expertise spans PySpark, Apache Airflow, AWS cloud services, and machine learning frameworks like XGBoost, enabling me to deliver efficient, high-impact solutions.
+
+My recent work includes engineering data pipelines that process tens of gigabytes daily while improving pipeline reliability and cutting runtimes by 40%. I’ve designed and optimized over 15 Airflow DAGs for complex batch and streaming workflows, implemented schema validation and automated alerting systems, and tuned Spark jobs for cost-effective cloud execution. At the University at Buffalo, I led research efforts on ML model tuning and interactive data visualizations that improved prediction accuracy by up to 15%.
+
+With a solid background in Python development, SQL optimization, and cloud architecture, I bring a multidisciplinary approach that bridges software engineering and data science. I am passionate about building resilient data infrastructure and automating workflows to reduce manual effort and enable fast, reliable decision-making.
+
+Committed to continuous learning and innovation, I actively explore real-time data processing, serverless computing, and MLOps best practices to drive business impact. Outside of technology, I enjoy problem-solving challenges, collaborative projects, and contributing to open-source communities.
 
 ---
 
 ## Data Journey { .incremental }
 
-**Discovery (2021–2022)**  
-I began by automating data preprocessing and feature engineering for sentiment analysis and health prediction projects, gaining a foundation in data cleaning and model evaluation.
+**Discovery (2022–2023)**  
+Began my data journey as a Software Engineer Intern at Accenture, developing backend libraries and automation tools that processed over a million records daily. Optimized PostgreSQL queries and schemas to reduce database load, laying a strong foundation in data processing and backend development.
 
-**Development (2022–2023)**  
-At Shiash Info Solutions, I designed and launched ETL frameworks that reduced data preparation time by 50% and created interactive dashboards to communicate key insights to stakeholders.
+**Development (2023–2024)**  
+As a Graduate Research Assistant at the University at Buffalo, I designed and tuned machine learning models (XGBoost, Logistic Regression), performed extensive feature engineering, and built interactive dashboards with Plotly and Dash to communicate insights effectively.
 
 **Scaling (2024)**  
-With NG Talent Tech, I architected AWS-based pipelines processing over 2 million records daily, implemented CI/CD workflows, and maintained 99.9% data pipeline uptime.
+Currently, at Community Dreams Foundation, I engineer scalable ETL pipelines using PySpark, Airflow, and AWS Glue, handling 10–50 GB of client data daily. I introduced schema validation, monitoring alerts, and optimized job configurations, reducing runtimes by 40% and significantly improving pipeline reliability.
 
-**Innovation (Present)**  
-I’m exploring causal inference techniques, MLOps best practices, and advanced BI architectures to enhance data reliability and foster informed decision-making.
+**Innovation (Present & Beyond)**  
+Exploring advanced topics like real-time data processing with PySpark Structured Streaming, serverless architectures with AWS Lambda, and integrated ML pipelines using Airflow and FastAPI to accelerate data-driven decision-making and build resilient, scalable systems.
 
 ---
 
 ## Professional Experience { .incremental }
 
-**Data Engineer Intern**, NG Talent Tech | Frisco, TX  
-*Feb 2024 – Dec 2024*  
-- Developed and maintained end-to-end data pipelines using Python, SQL, Airflow, and AWS services.  
-- Automated monitoring and alerting systems, reducing manual intervention by 40%.  
-- Integrated CI/CD with GitHub Actions to streamline deployment of data workflows.
+**Data Engineer**  
+Community Dreams Foundation | Orlando, Florida, United States  
+*February 2025 – Present*  
+- Engineered scalable ETL pipelines using PySpark, AWS Glue, and S3 to process 10–50 GB of client data daily, reducing manual reporting efforts.  
+- Developed 15+ Airflow DAGs for batch and streaming workflows, improving pipeline reliability and cutting deployment time.  
+- Implemented schema validation, row-count checks, and failure alerts, reducing production incidents and ensuring SLA compliance.  
+- Tuned PySpark transformations and Glue job configurations, lowering job runtimes by 40% and optimizing AWS compute costs.     
 
-**Data Science Intern**, Shiash Info Solutions | Chennai, India  
-*Aug 2021 – Dec 2022*  
-- Led data cleaning and feature engineering for classification and regression models, improving accuracy by 12%.  
-- Built and validated machine learning models (Random Forest, Logistic Regression, KNN) with cross-validation.  
-- Designed Tableau dashboards to visualize model outcomes and support executive decision-making.
+**Graduate Research Assistant**  
+University at Buffalo | Buffalo, NY, United States  
+*October 2023 – December 2024*  
+- Designed and optimized machine learning models (XGBoost, Logistic Regression) improving prediction accuracy by 12–15%.  
+- Performed advanced feature engineering, including categorical encoding, to enhance model generalization.  
+- Conducted hyperparameter tuning using GridSearchCV and RandomizedSearchCV, delivering reproducible training pipelines.  
+- Created interactive dashboards with Plotly and Dash for visualizing model results and research findings.   
+
+**Software Engineer Intern**  
+Accenture | Hyderabad, India  
+*October 2023 – December 2024*  
+- Developed Python backend libraries and CLI tools to automate core business processes, handling over 1M records daily.  
+- Refactored PostgreSQL queries and database schemas, reducing query latency and lowering database load by 25%.  
+- Created reusable parsing and validation modules, automating workflows and saving 40% manual effort.  
+- Improved code quality by implementing PyTest test suites and integrating GitHub Actions CI, increasing test coverage to 80%.
 
 ---
 
 ## Core Expertise { .incremental }
 
-- **Scalable Data Pipelines:** Python, SQL, Airflow, dbt  
-- **Data Analysis & Visualization:** pandas, Tableau, Power BI, Plotly  
-- **Machine Learning:** scikit-learn, AWS SageMaker, AWS Lambda  
-- **Product Analytics:** Cohort Analysis, Funnel Analysis, A/B Testing  
-- **Cloud & DevOps:** AWS (S3, Redshift, Lambda), Docker, Git
+- **Data Engineering & Workflow Orchestration:** PySpark, SQL, AWS Glue, AWS EMR, Apache Airflow, S3, Redshift  
+- **Software & Backend Development:** Python, Flask, FastAPI, REST APIs, PostgreSQL  
+- **Cloud & Infrastructure:** AWS (Lambda, EC2, S3, RDS), Docker, Serverless Architecture, GitHub Actions, CI/CD  
+- **Machine Learning & Model Deployment:** XGBoost, scikit-learn, MLflow, Feature Engineering, Hyperparameter Tuning  
+- **Data Visualization & Insights:** Plotly, Dash, pandas, Tableau, AWS Quick SIght  
+- **Testing & Automation:** PyTest, modular scripting, CLI tools, workflow automation  
 
 ---
 
 ## Education { .incremental }
 
-**M.S. in Data Science**  
-University at Buffalo, NY (2023–2024)
+**Masters in Data Science**  
+University at Buffalo, NY (2023–2025)
 
 **B.Tech in Computer Science Engineering**  
 Vellore Institute of Technology, Andhra Pradesh, India (2019–2023)

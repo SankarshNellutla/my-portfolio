@@ -14,15 +14,15 @@ page-layout: article
 
 ![](images/profile.jpg){.hero-photo}
 
-## HEY, I'M SANKARSH NELLUTLA
+# HEY, I'M SANKARSH NELLUTLA
 
-_I turn messy, complex data into clear, actionable insights. Whether it's building full-stack analytics pipelines, automating data workflows, or uncovering patterns in large datasets—I'm all about using data to solve real problems._
+I specialize in building scalable ETL pipelines and backend systems that transform raw data into reliable, actionable insights. Using tools like PySpark, Airflow, and AWS, I design and optimize data workflows that improve efficiency, reduce processing time, and ensure data quality. Alongside data engineering, I’m passionate about software engineering, developing clean, maintainable backend systems and APIs that solve real-world problems.
 
-_I’m especially into data science and product analytics because I love seeing how the right insights can shape great products and smarter decisions. I care about building things that are useful, impactful, and actually make people’s lives easier._
+Feel free to explore my projects to see how I combine data-driven design with robust software development. I’m always open to connecting, collaborating, or discussing new opportunities.
 
-_Take a look around—check out my projects, read a blog post or two, and feel free to reach out if you want to connect or work together!_
+<p class="open-to">Open to Software Developer and Data Engineer roles.</p>
 
-<a href="files/resume.pdf" class="resume-btn" target="_blank" rel="noopener">
+<a href="files/Sankarsh_Resume.pdf" class="resume-btn" target="_blank" rel="noopener">
   <i class="fas fa-download"></i> Download Resume
 </a>
 
