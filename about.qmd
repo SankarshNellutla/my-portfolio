@@ -28,7 +28,7 @@ Began my data journey as a Software Engineer Intern at Accenture, developing bac
 As a Graduate Research Assistant at the University at Buffalo, I designed and tuned machine learning models (XGBoost, Logistic Regression), performed extensive feature engineering, and built interactive dashboards with Plotly and Dash to communicate insights effectively.
 
 **Scaling (2024)**  
-Currently, at Community Dreams Foundation, I engineer scalable ETL pipelines using PySpark, Airflow, and AWS Glue, handling 10–50 GB of client data daily. I introduced schema validation, monitoring alerts, and optimized job configurations, reducing runtimes by 40% and significantly improving pipeline reliability.
+Currently, at BeyondTrust, I engineer scalable ETL pipelines using PySpark, Airflow, and AWS Glue, handling 10–50 GB of client data daily. I introduced schema validation, monitoring alerts, and optimized job configurations, reducing runtimes by 40% and significantly improving pipeline reliability.
 
 **Innovation (Present & Beyond)**  
 Exploring advanced topics like real-time data processing with PySpark Structured Streaming, serverless architectures with AWS Lambda, and integrated ML pipelines using Airflow and FastAPI to accelerate data-driven decision-making and build resilient, scalable systems.
@@ -38,7 +38,7 @@ Exploring advanced topics like real-time data processing with PySpark Structured
 ## Professional Experience { .incremental }
 
 **Data Engineer**  
-Community Dreams Foundation | Orlando, Florida, United States  
+BeyondTrust, Atlanta, Georgia, United States  
 *February 2025 – Present*  
 - Engineered scalable ETL pipelines using PySpark, AWS Glue, and S3 to process 10–50 GB of client data daily, reducing manual reporting efforts.  
 - Developed 15+ Airflow DAGs for batch and streaming workflows, improving pipeline reliability and cutting deployment time.  
@@ -53,9 +53,9 @@ University at Buffalo | Buffalo, NY, United States
 - Conducted hyperparameter tuning using GridSearchCV and RandomizedSearchCV, delivering reproducible training pipelines.  
 - Created interactive dashboards with Plotly and Dash for visualizing model results and research findings.   
 
-**Software Engineer Intern**  
+**Software Engineer**  
 Accenture | Hyderabad, India  
-*October 2023 – December 2024*  
+*June 2022 – July 2023*  
 - Developed Python backend libraries and CLI tools to automate core business processes, handling over 1M records daily.  
 - Refactored PostgreSQL queries and database schemas, reducing query latency and lowering database load by 25%.  
 - Created reusable parsing and validation modules, automating workflows and saving 40% manual effort.  
@@ -77,10 +77,10 @@ Accenture | Hyderabad, India
 ## Education { .incremental }
 
 **Masters in Data Science**  
-University at Buffalo, NY (2023–2025)
+University at Buffalo, NY
 
 **B.Tech in Computer Science Engineering**  
-Vellore Institute of Technology, Andhra Pradesh, India (2019–2023)
+Vellore Institute of Technology, India
 
 ---
 
