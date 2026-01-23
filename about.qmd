@@ -9,7 +9,7 @@ format:
 
 # Hi, I’m Sankarsh Nellutla
 
-Data Engineer and Software Developer with a strong foundation in building scalable ETL pipelines, backend systems, and machine learning workflows. Based in Orlando, FL, I specialize in transforming raw data into reliable, actionable insights through clean engineering, automation, and data-driven design. My expertise spans PySpark, Apache Airflow, AWS cloud services, and machine learning frameworks like XGBoost, enabling me to deliver efficient, high-impact solutions.
+Data Engineer and Software Developer with a strong foundation in building scalable ETL pipelines, backend systems, and machine learning workflows. I specialize in transforming raw data into reliable, actionable insights through clean engineering, automation, and data-driven design. My expertise spans PySpark, Apache Airflow, AWS cloud services, and machine learning frameworks like XGBoost, enabling me to deliver efficient, high-impact solutions.
 
 My recent work includes engineering data pipelines that process tens of gigabytes daily while improving pipeline reliability and cutting runtimes by 40%. I’ve designed and optimized over 15 Airflow DAGs for complex batch and streaming workflows, implemented schema validation and automated alerting systems, and tuned Spark jobs for cost-effective cloud execution. At the University at Buffalo, I led research efforts on ML model tuning and interactive data visualizations that improved prediction accuracy by up to 15%.
 

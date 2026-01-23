@@ -22,7 +22,7 @@ Feel free to explore my projects to see how I combine data-driven design with ro
 
 <p class="open-to">Open to Software Developer and Data Engineer roles.</p>
 
-<a href="files/Sankarsh_Resume.pdf" class="resume-btn" target="_blank" rel="noopener">
+<a href="files/SankarshNellutla_Resume" class="resume-btn" target="_blank" rel="noopener">
   <i class="fas fa-download"></i> Download Resume
 </a>
 
